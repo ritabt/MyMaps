@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](MyMapsDemoGif.gif)
+![](MyMapDemoGif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
