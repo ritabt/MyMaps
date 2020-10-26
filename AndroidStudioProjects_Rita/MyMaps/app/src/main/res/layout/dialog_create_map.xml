@@ -11,21 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Title of place"
+        android:hint="Map Title"
         android:inputType="textPersonName"
-        android:paddingStart="15dp"
-        android:paddingTop="30dp"
-        android:paddingEnd="15dp"
         android:textSize="24sp" />
-
-    <EditText
-        android:id="@+id/etDescription"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="Description of place"
-        android:inputType="textPersonName"
-        android:paddingStart="15dp"
-        android:paddingTop="30dp"
-        android:paddingEnd="15dp" />
 </LinearLayout>
